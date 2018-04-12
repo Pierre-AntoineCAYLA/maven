@@ -1,0 +1,16 @@
+animal\aliment\Plante.class
+animal\regime\Carnivore.class
+animals\Deplacer.class
+animal\aliment\Viande.class
+animal\regime\Regime.class
+animals\Main.class
+animal\animals\Homme.class
+animals\Animal.class
+animal\aliment\Steak.class
+animal\animals\Lion.class
+animal\aliment\Aliment.class
+animal\animals\Hyene.class
+animal\animals\Lapin.class
+animal\regime\Omnivore.class
+animal\regime\Herbivore.class
+animal\aliment\Carotte.class
